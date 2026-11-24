@@ -1,0 +1,10 @@
+{
+  "name": "one-line-excuse-for-your-human",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One line an AI agent gives its human for missing a deadline.",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
